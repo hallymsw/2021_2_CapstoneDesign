@@ -1,7 +1,7 @@
 # 공지사항
 ![image](https://user-images.githubusercontent.com/60763110/131955893-5a9af51e-a8b0-4eb0-841a-c4f9a89419c4.png)
 
-### 2021년 1학기 캡스톤디자인 경진대회 시상규모
+### - 2021년 1학기 캡스톤디자인 경진대회 시상규모
 ![image](https://user-images.githubusercontent.com/60763110/118602676-f1fdb400-b7ed-11eb-995d-7e914c8e2a3b.png)
 
 # 결과 발표회 결과(팀명)
