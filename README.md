@@ -1,4 +1,4 @@
-# 일정
+# 공지사항
 ![image](https://user-images.githubusercontent.com/60763110/131955893-5a9af51e-a8b0-4eb0-841a-c4f9a89419c4.png)
 
 # 결과 발표회 결과(팀명)
